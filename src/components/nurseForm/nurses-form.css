@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nurse-form-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.form-box {
+    width: 500px;
+    height: 400px;
+    padding: 16px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+    border-radius: 2px;
+}
+
+.form-header {
+    text-align: center;
+    color: #1976d2;
+    font-family: Ubuntu, sans-serif;
+}
+
+.button-stack {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
